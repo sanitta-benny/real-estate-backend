@@ -1,0 +1,143 @@
+{
+  "buy": [],
+  "Interested": [
+    {
+      "category": "Rent",
+      "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bedrooms": "3",
+      "buildingArea": "3000",
+      "plotArea": "8000",
+      "location": "Delhi ,India",
+      "discount": "10",
+      "amount": "14000",
+      "id": 1
+    },
+    {
+      "category": "Rent",
+      "url": "https://images.pexels.com/photos/259751/pexels-photo-259751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bedrooms": "4",
+      "buildingArea": "60000",
+      "plotArea": "80000",
+      "location": "Kochi , Kerala",
+      "discount": "15",
+      "amount": "20000",
+      "id": 2
+    },
+    {
+      "category": "Rent",
+      "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bedrooms": "4",
+      "buildingArea": "3500",
+      "plotArea": "50000",
+      "location": "Trivandrum , India",
+      "discount": "7",
+      "amount": "10000",
+      "id": 3
+    }
+  ],
+  "Cart": [],
+  "sell": [
+    {
+      "id": "4",
+      "purpose": "living",
+      "url": "https://c1.wallpaperflare.com/preview/260/583/682/new-home-for-sale-home-house.jpg",
+      "spe1": "4 Bedroom",
+      "spe2": "Parkking",
+      "spe3": "5000 sqft",
+      "location": "Delhi, India",
+      "contact": "089760",
+      "dis": "This plot is situated in Delhi. Plot contain features like strong doors and windows, advanced lock system, burglar alarms, round-the-clock security surveillance , proper security facilities and proper drainage facilities are there. Will prevent the entry of unwanted intruders.\"",
+      "amount": "50000000₹",
+      "discound": "5%",
+      "video": "https://www.youtube.com/embed/ymvfSnF_rMo"
+    },
+    {
+      "id": "5",
+      "purpose": "living",
+      "url": "https://photos.zillowstatic.com/fp/b5699a1e064dfb05aa299397bc5ac109-p_e.jpg",
+      "spe1": "5000sqft",
+      "spe2": " age 2",
+      "spe3": "6 Bedrooms",
+      "location": "Delhi,India",
+      "contact": "09679566",
+      "dis": "This plot is located in One of the most popular city in Kerala . Amrutha hospital is neighboring the property. This plot contain plenty of pure water source. Plot situated in Trivandrum Town . Well known educational institutions are in 5km Boundary. The john's  Hopkins hospital is neighboring the property. For more details please contact...",
+      "amount": "2,0000000₹",
+      "discound": "15%",
+      "video": "https://www.youtube.com/embed/gkmZZ1lBG9A"
+    },
+    {
+      "id": "1",
+      "purpose": "living",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1HfqsYdKfnwdRhOOjLG3PQP7tm-ALngjwKF51yPX523aHTbwOKldy0uNDNBU3zDmFYs&usqp=CAU",
+      "spe1": "6 Bedroom",
+      "spe2": "5000 sqft",
+      "spe3": "70000 sqft.plot",
+      "location": "Trivandrum,Kerala",
+      "contact": "09087654",
+      "dis": "This plot is located in one of the most popular city in Kerala.This plot is situated in Delhi. Plot contain features like strong doors and windows, advanced lock system, burglar alarms, round-the-clock security surveillance , proper security facilities and proper drainage facilities are there. Will prevent the entry of unwanted intruders. Amrutha hospital is neighboring  to this plot.",
+      "amount": "25,000000",
+      "discound": "5%",
+      "video": "https://www.youtube.com/embed/gkmZZ1lBG9A"
+    },
+    {
+      "id": "2",
+      "purpose": "Sell",
+      "url": "https://i.pinimg.com/originals/2f/14/f1/2f14f1e2d39523ae296fc19f59744f62.png",
+      "spe1": "6 Bedroom",
+      "spe2": "ventilation",
+      "spe3": "5000sqft",
+      "location": "Kochi, Kerala",
+      "contact": "0908760089",
+      "dis": "This plot is situated in Kochi. Plot contain features like strong doors and windows, advanced lock system, burglar alarms, round-the-clock security surveillance , proper security facilities and proper drainage facilities are there. Will prevent the entry of unwanted intruders. The john's  Hopkins hospital is neighboring the property. For more details please contact...",
+      "amount": "1,5000000₹",
+      "discound": "20%",
+      "video": "https://www.youtube.com/embed/VtBXEOJA2rY"
+    }
+  ],
+  "Rent": [
+    {
+      "id": "1",
+      "category": "Rent",
+      "url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bedrooms": "4",
+      "buildingArea": "3500",
+      "plotArea": "50000",
+      "location": "Trivandrum , India",
+      "discount": "7",
+      "amount": "10000"
+    },
+    {
+      "id": "2",
+      "category": "Rent",
+      "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bedrooms": "3",
+      "buildingArea": "3000",
+      "plotArea": "8000",
+      "location": "Delhi ,India",
+      "discount": "10",
+      "amount": "14000"
+    },
+    {
+      "id": "3",
+      "category": "Rent",
+      "url": "https://images.pexels.com/photos/259751/pexels-photo-259751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bedrooms": "4",
+      "buildingArea": "60000",
+      "plotArea": "80000",
+      "location": "Kochi , Kerala",
+      "discount": "15",
+      "amount": "20000"
+    },
+    {
+      "id": "4",
+      "category": "Rent",
+      "url": "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bedrooms": "5",
+      "buildingArea": "5500",
+      "plotArea": "8000",
+      "location": "Delhi , India",
+      "discount": "8",
+      "amount": "27000"
+    }
+  ]
+}
